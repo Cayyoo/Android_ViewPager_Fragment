@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Administrator\Desktop\ViewPager_Fragment\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_925875d9448dd345587cabdb9a56f4834d2efae9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\ViewPager_Fragment\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Administrator\Desktop\ViewPager_Fragment\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_dbbbecdc647eb826e976da08cfa5f29fd078e0c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\ViewPager_Fragment\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Administrator\Desktop\ViewPager_Fragment\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_7e08859574a2a985e830e2dfa229724e2fb7ff23.jar" />
+    </item>
+
+</items>
